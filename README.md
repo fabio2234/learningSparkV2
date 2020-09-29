@@ -1,2 +1,2 @@
 
-Repoitorio empleado para poner en práctica los ejemplos ncontrados en el libro "Learning Spark V2"
+Repoitorio empleado para poner en práctica los ejemplos encontrados en el libro "Learning Spark V2"
